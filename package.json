@@ -1,6 +1,9 @@
 {
   "name": "ckeditor5-build-cloudInEditor",
-  "author": "https://twitter.com/Johnniexson",
+  "author": {
+    "name": "Johnniexson",
+    "url": "http:johnniexson.github.io"
+  },
   "description": "A custom CKEditor 5 build made to extend the default inline build.",
   "version": "0.0.1",
   "license": "SEE LICENSE IN LICENSE.md",
@@ -43,6 +46,11 @@
     "terser-webpack-plugin": "^2.3.5",
     "webpack": "^4.41.6",
     "webpack-cli": "^3.3.11"
+  },
+  "main": "./build/ckeditor.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnniexson/ckeditor5-build-cloudInEditor.git"
   },
   "scripts": {
     "build": "webpack --mode production"
