@@ -54,7 +54,7 @@ import WordCount from "@ckeditor/ckeditor5-word-count/src/wordcount.js";
 import Essentials from "@ckeditor/ckeditor5-essentials/src/essentials.js";
 import Paragraph from "@ckeditor/ckeditor5-paragraph/src/paragraph.js";
 //unused in default build
-import MathType from "@wiris/mathtype-ckeditor5";
+// import MathType from "@wiris/mathtype-ckeditor5";
 import CKFinder from "@ckeditor/ckeditor5-ckfinder/src/ckfinder.js";
 import CKFinderUploadAdapter from "@ckeditor/ckeditor5-adapter-ckfinder/src/uploadadapter.js";
 
@@ -113,7 +113,7 @@ CloudInEditor.builtinPlugins = [
   Essentials,
   Paragraph,
   //unused in default
-  MathType,
+  // MathType,
   CKFinder,
   CKFinderUploadAdapter
 ];
