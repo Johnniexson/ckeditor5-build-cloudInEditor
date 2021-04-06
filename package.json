@@ -51,7 +51,7 @@
     "@ckeditor/ckeditor5-mention": "^17.0.0",
     "@ckeditor/ckeditor5-page-break": "^17.0.0",
     "@ckeditor/ckeditor5-paragraph": "^17.0.0",
-    "@ckeditor/ckeditor5-paste-from-office": "^17.0.0",
+    "@ckeditor/ckeditor5-paste-from-office": "^27.0.0",
     "@ckeditor/ckeditor5-remove-format": "^17.0.0",
     "@ckeditor/ckeditor5-special-characters": "^17.0.0",
     "@ckeditor/ckeditor5-table": "^17.0.0",
